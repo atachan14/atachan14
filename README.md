@@ -44,19 +44,19 @@ PC教室をテーマとしたWebサイト。複数条件によるコンテンツ
 
 ## 職業訓練校での制作物
 
-### Getura（職業訓練4か月目） | [リポジトリ](https://github.com/atachan14/getura32)
+### Getura（職業訓練5か月目） | [リポジトリ](https://github.com/atachan14/getura32)
 
 Unity（C#）で制作したマルチプレイゲーム。
 
 Netcode for GameObjectsを使用し、同一PC上での複数クライアントによる通信・同期処理を実装。
 
-### IME（職業訓練3か月目） | [リポジトリ](https://github.com/atachan14/IME)
+### IME（職業訓練4か月目） | [リポジトリ](https://github.com/atachan14/IME)
 
-C#（Windows Forms）で制作した文字入力ツール。
+C#（Windows Forms）で制作した文字入力パッド。
 
 EditMode、Pallet、CryMode、PaintModeなどを実装。
 
-### Planetter（職業訓練2か月目） | [リポジトリ](https://github.com/atachan14/planetter)
+### Planetter（職業訓練3か月目） | [リポジトリ](https://github.com/atachan14/planetter)
 
 Java / JSP / Servlet / JDBC / MySQLを使用して制作したWebアプリ。
 
