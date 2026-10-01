@@ -8,7 +8,7 @@ Python（Django）で制作中の、地図上への情報投稿・検索やユ�
 
 要件・仕様の設計、動作確認、修正方針の決定を担当し、実装はCodexが担当。
 
-## 個人制作（終了）
+## 個人制作（制作終了）
 
 ### ToolBox | [リポジトリ](https://github.com/atachan14/ToolBox)
 
@@ -28,19 +28,11 @@ Unity（C#）で制作した、一人用ブラウザゲーム。
 
 ## Web制作業務での制作物
 
-Web制作業務の一環として、WordPressを用いて制作したサンプルサイトです。
+Web制作業務の一環として、HTML / CSS / JavaScript / PHP / WordPressを用いて制作したサンプルサイトです。
 
-### SPS | [公開URL](https://website20.skillup-osaka.com/)
-
-PC教室をテーマとしたWebサイト。複数条件によるコンテンツの絞り込み機能等を実装。
-
-### SQuam | [公開URL](https://website17.skillup-osaka.com/)
-
-海洋研究機関をテーマとしたWebサイト。スクロールに連動した演出やアニメーション等を実装。
-
-### SampleGears | [公開URL](https://website13.skillup-osaka.com/)
-
-機材店をテーマとしたWebサイト。複数条件による検索・絞り込み機能等を実装。
+- [SPS](https://website20.skillup-osaka.com/)
+- [SQuam](https://website17.skillup-osaka.com/)
+- [SampleGears](https://website13.skillup-osaka.com/)
 
 ## 職業訓練校での制作物
 
@@ -54,16 +46,14 @@ Netcode for GameObjectsを使用し、同一PC上での複数クライアント�
 
 C#（Windows Forms）で制作した文字入力パッド。
 
-EditMode、Pallet、CryMode、PaintModeなどを実装。
+EditMode、Palette、CryMode、PaintModeなどを実装。
 
 ### Planetter（職業訓練3か月目） | [リポジトリ](https://github.com/atachan14/planetter)
 
 Java / JSP / Servlet / JDBC / MySQLを使用して制作したWebアプリ。
 
-投稿機能を中心に、2階層の座標空間、ユーザー状態、他ユーザーとのインタラクション、機能拡張システムなどを実装し、MySQLでデータを管理。
+投稿機能を中心に、2階層の座標空間、ユーザー状態、他ユーザーとのインタラクション、機能拡張システムなどを実装。
 
 ### DiceBattle（職業訓練1か月目） | [リポジトリ](https://github.com/atachan14/DiceBattle)
 
-Javaの課題として制作したコンソールRPG。
-
-講師から提示された要件をもとに、キャラクター・行動・状態変化などをクラス分割し、継承や多態性を意識した構成で実装。
+Javaの課題として、講師から提示された要件をもとに制作したコンソールRPG。
