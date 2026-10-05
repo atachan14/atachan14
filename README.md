@@ -6,9 +6,15 @@
 
 Python（Django）で制作中の、地図上への情報投稿・検索やユーザー間の交流を想定したSNS。
 
-要件・仕様の設計、動作確認、修正方針の決定を担当し、実装はCodexが担当。
+要件・仕様の設計、動作確認、修正方針の決定を担当し、実装はCodex/Dotsが担当。
 
-## 個人制作（制作終了）
+## 個人制作
+
+### Pachimon | [リポジトリ](https://github.com/atachan14/Pachimon) / [公開URL](https://atachan14.itch.io/pachimon)
+
+Unity（C#）で制作した、一人用ブラウザゲーム。
+
+仕様書・実装計画の作成・修正、動作確認、修正方針の決定を担当し、実装はCodexが担当。
 
 ### ToolBox | [リポジトリ](https://github.com/atachan14/ToolBox)
 
@@ -17,14 +23,6 @@ Python（PySide6）で制作した、主にCSS調整などを補助するWindows
 ### Walk2.0 | [リポジトリ](https://github.com/atachan14/Walk2.0)
 
 Unity（C#）で制作した、Android向けミニゲーム。Firebaseを利用したデータ保存・ランキング機能などを実装。
-
-## 個人制作（凍結）
-
-### Pachimon | [リポジトリ](https://github.com/atachan14/Pachimon) / [公開URL](https://atachan14.itch.io/pachimon)
-
-Unity（C#）で制作した、一人用ブラウザゲーム。
-
-仕様書・実装計画の作成・修正、動作確認、修正方針の決定を担当し、実装はCodexが担当。
 
 ## Web制作業務での制作物
 
