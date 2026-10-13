@@ -2,11 +2,17 @@
 
 ## 個人制作（制作中）
 
+### ww_gg | [リポジトリ](https://github.com/atachan14/ww_gg) / [公開URL](https://ww-gg.vercel.app/)
+
+Python（Flask）で制作中の、人狼ゲームの盤面情報から期待勝率を算出するツール。
+
+AI実装。開発者としては要件・仕様の設計、動作確認、修正方針の決定などを担当。
+
 ### Niixy | [リポジトリ](https://github.com/atachan14/Niixy) / [公開URL](https://niixy-psi.vercel.app/)
 
 Python（Django）で制作中の、地図上への情報投稿・検索やユーザー間の交流を想定したSNS。
 
-要件・仕様の設計、動作確認、修正方針の決定を担当し、実装はCodex/Dotsが担当。
+AI実装。開発者としては要件・仕様の設計、動作確認、修正方針の決定などを担当。
 
 ## 個人制作
 
@@ -14,7 +20,7 @@ Python（Django）で制作中の、地図上への情報投稿・検索やユ�
 
 Unity（C#）で制作した、一人用ブラウザゲーム。
 
-仕様書・実装計画の作成・修正、動作確認、修正方針の決定を担当し、実装はCodexが担当。
+AI実装。開発者としては仕様書・実装計画の作成・修正、動作確認、修正方針の決定などを担当。
 
 ### ToolBox | [リポジトリ](https://github.com/atachan14/ToolBox)
 
