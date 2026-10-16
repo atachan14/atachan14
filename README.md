@@ -8,12 +8,6 @@ Python（Flask）で制作中の、人狼ゲームの盤面情報から期待勝
 
 AI実装。開発者としては要件・仕様の設計、動作確認、修正方針の決定などを担当。
 
-### Niixy | [リポジトリ](https://github.com/atachan14/Niixy) / [公開URL](https://niixy-psi.vercel.app/)
-
-Python（Django）で制作中の、地図上への情報投稿・検索やユーザー間の交流を想定したSNS。
-
-AI実装。開発者としては要件・仕様の設計、動作確認、修正方針の決定などを担当。
-
 ## 個人制作
 
 ### Pachimon | [リポジトリ](https://github.com/atachan14/Pachimon) / [公開URL](https://atachan14.itch.io/pachimon)
